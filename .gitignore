@@ -1,0 +1,8 @@
+# idea dir
+.bsp
+.idea
+venv
+
+# file
+*.txt
+*.iml
